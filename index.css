@@ -1,0 +1,118 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	font-family: raleway;
+}
+
+
+.h2first{
+	padding-left: 80px;
+	padding-top: 50px;
+}
+
+body{
+	background-color: white;
+}
+
+
+.carousel-inner {
+	height: 500px;
+}
+
+.about{
+	background-color:rgb(255, 255, 255);
+	height: 550px;
+}
+.about h1{
+	text-align: center;
+	padding-top:2%;
+	color:#ffcc00;
+}
+
+.explain {
+	background-color:rgb(255, 255, 255);
+	height: 400px;
+}
+
+.text {
+	padding-left: 9%;
+	color: #686868;
+	font-size: 17px;
+}
+
+.about_text {
+	/*padding-top: 10%;*/
+	color: #686868;
+}
+
+
+
+.h2{
+	margin-bottom: 70px;
+}
+
+/*testimonial*/
+.image {
+
+	height: 350px;
+	background-image: url(images/13.jpg);
+	background-repeat: no-repeat;
+}
+
+#name {
+	color: white;
+	padding-top: 10px;
+}
+
+.overlay{
+
+	background:#000;
+	width:100%;
+	height:100%;
+	position:relative;
+	opacity:0.8;
+	top:0px;
+	padding: 0;
+	margin: 0%;
+
+}
+
+#circle{
+	
+	height:100px;
+	width:100px;
+	border-radius: 50px;
+	margin-top: 3%;
+}
+
+/*end of testimonial*/
+
+
+/*subscribe*/
+.subscribe {
+	margin-bottom: 100px;
+}
+
+#news {
+
+	margin-top: 40px;
+}
+
+.sub {
+	color: white;
+	background-color: #dfae08;
+	border-color: #dfae08;
+	width: 100px;
+	border-radius: 5px;
+	height: 50px;
+}
+
+#email {
+
+	width: 400px;
+	height: 50px;
+	
+
+}
+/*subscribe*/

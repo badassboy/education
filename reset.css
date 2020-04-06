@@ -1,0 +1,33 @@
+.first{
+	background-color: white;
+	width: 100%;
+	height: 800px;
+}
+
+.second{
+	background:#dedede;
+	width: 40%;
+	height: 350px;
+	margin: 10% auto;
+	margin-bottom: 80%;
+	text-decoration: none;
+	
+
+}
+
+.form-group{
+	width: 50%;
+}
+
+.form-group{
+	margin: auto;
+}
+
+.btn btn-primary{
+	padding-right: 80px;
+}
+
+.text-center{
+
+
+}
